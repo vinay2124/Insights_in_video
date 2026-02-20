@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+yt-dlp
+openai-whisper
+google-genai
+streamlit-echarts
+sentence-transformers
+faiss-cpu
+numpy
+ffmpeg-python
